@@ -25,54 +25,35 @@ A continuación, se detalla el temario organizado por meses. Cada mes incluye la
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
-| Semana 1 | Introducción al Curso                  | - Presentación del Curso y Planificación<br>- Herramientas para dar el curso<br>- Introducción a Ruby |
-| Semana 2 | Métodos, Tipos de datos, Clases        | - Tipos de Datos<br>- Clases y Métodos de Clase<br>- Ejercitación |
-| Semana 3 | Iteradores y bloques                   | - Configuración de ambiente de desarrollo<br>- Ciclos / Bucles<br>- Clases y Métodos de Clase Parte 2 (Ejercicios) |
-| Semana 4 | Programación Orientada a Objetos (POO / OOP) | - Ejercicio Sistema de Notas Escolar<br>- Clase Estudiante y sus métodos<br>- Clase Curso y sus métodos |
+| Semana 1 | Introducción al Curso                  | - Presentación del lenguaje de programación, instalación de archivos necesarios, creación de cuenta github |
+| Semana 2 | Primer programa, uso de variables        | - Creación del primer programa, inicios en el concepto de variables. |
+| Semana 3 | Condicionales                   | - Utilización del concepto If para usar en programas. Repaso de variables, manejo de errores (debugging). |
+| Semana 4 | Bucles | - Utilización de while y for. Ejemplos con condicionales. |
 
 ### Mes 2: Bases de Datos e Intro a Rails
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
-| Semana 5 | Programación Orientada a Objetos (POO / OOP) | - Ejercicio Sistema de Notas Escolar Parte 2<br>- Ranking de Notas / Curso<br>- Informe de Notas |
-| Semana 6 | Base de datos relacionales y SQL, Lectura de un CSV | - Introducción a Base de datos relacionales<br>- SQL (CRUD y principales comandos)<br>- Diseño de una estructura de una base de datos |
-| Semana 7 | Revisión de diseños BD, Introducción a Rails | - Ejemplos de BD (Diseños y consultas simples)<br>- Introducción a Rails y a MVC<br>- Estructura de archivos |
-| Semana 8 | Rails en detalle                       | - Arquitectura Rails<br>- Configuración de ambiente de desarrollo para Rails |
+| Semana 5 | Arreglos y listas | - Utilización de listas y arreglos para almacenar variables. Utilización del foreach. |
+| Semana 6 | Tarea #1 | - Desarrollar un programa que utilice todos los conceptos anteriores, clase práctica. Resolución de dudas. |
+| Semana 7 | Introducción a programación orientada a objetos. | - Introducción al concepto de POO, introducción a clases y métodos. |
+| Semana 8 | Creación de clases y métodos                       | - Presentación de clases y métodos en C#, cómo implementarlos y utilizarlos. |
 
 ### Mes 3: Desarrollo Básico en Rails
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
-| Semana 9 | Rutas, Controladores y Vistas          | - Mi primer proyecto en Rails<br>- Controladores y Vistas |
-| Semana 10 | CRUD y Formularios                     | - Creación de Modelo para nuestro blog<br>- Modelos y migraciones<br>- Introducción a Git, Github y repositorios |
-| Semana 11 | Acciones del controlador y Formularios: Parte 1 | - Mostrar artículos en nuestro blog<br>- Acciones show e index<br>- Formularios: Crear un artículo |
-| Semana 12 | Acciones del controlador y Formularios: Parte 2 | - Formularios: Crear un artículo 2<br>- Acciones editar y eliminar un artículo |
+| Semana 9 | Herencia y polimorfirmos          | - Concepto de bases de datos relacionales, qué son y por qué son útiles. |
+| Semana 10 | Primeros pasos con SQLite  | - Instalación de SQLite, creación de una base de datos sencilla. |
+| Semana 11 | CRUD básico con SQLite | - Cómo insertar, actualizar, eliminar y consultar datos en SQLite desde C#. |
+| Semana 12 | Tarea #2 | - Desarrollar una pequeña aplicación en C# que interactúe con una base de datos SQLite. |
 
 ### Mes 4: Autenticación y Relaciones
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
-| Semana 13 | Segundo modelo - Comentarios - Texto enriquecido | - Texto Enriquecido<br>- Comentarios de un artículo |
-| Semana 14 | Autenticación: Parte 1                 | - Autenticación con Devise<br>- Creación del modelo Usuario<br>- Configuración de la gema |
-| Semana 15 | Autenticación: Parte 2                 | - Configuración de registro e inicio de sesión<br>- Servicio de correos local: Mailcatcher |
-| Semana 16 | Repaso Práctico                        | - Repaso práctico para los estudiantes<br>- Ajustes visuales según usuario con sesión iniciada |
+| Semana 13 | Manejo de archivos en C# | - Cómo leer y escribir archivos, uso de JSON y CSV. |
+| Semana 14 | Creación de un pequeño sistema                 | - Integración de conceptos previos en una pequeña aplicación funcional. |
+| Semana 15 | Proyecto Final (Parte 1)                 | - Desarrollo del proyecto final con SQLite y aplicación de lo aprendido. |
+| Semana 16 | Proyecto Final (Parte 2)                        | - Presentación del proyecto, revisión y mejoras. |
 
-### Mes 5: Autorización y Tareas Asíncronas
-
-| Semana  | Título de la Sesión                    | Contenidos                                      |
-|---------|----------------------------------------|------------------------------------------------|
-| Semana 17 | Autenticación: Parte 3                 | - Relación de Usuarios con Artículos y Comentarios<br>- Estados de un artículo |
-| Semana 18 | Autorización: Parte 1                  | - Autorización con Pundit<br>- Creando una Policy<br>- Filtrar artículos según Scope |
-| Semana 19 | Autorización: Parte 2                  | - Nuevas acciones: Publicar y Borrador<br>- Condicionar acciones con Pundit y uso de estados<br>- Ajustes visuales para nuevas acciones |
-| Semana 20 | Tareas en segundo plano (asíncronos)   | - Configuración de Solid Queue<br>- Creación de una Tarea/Job<br>- Dashboard de tareas |
-
-### Mes 6: Finalización y Deploy
-
-| Semana  | Título de la Sesión                    | Contenidos                                      |
-|---------|----------------------------------------|------------------------------------------------|
-| Semana 21 | Ordenamiento y Filtrado con Turbo: Parte 1 | - Nuevo proyecto con tabla de datos con Faker<br>- Ordenar datos<br>- Orden ascendente y descendente |
-| Semana 22 | Ordenamiento y Filtrado con Turbo: Parte 2 | - Agregar buscador<br>- Autosubmit del buscador<br>- Filtrado por columna |
-| Semana 23 | Finalizando Blog                       | - Seeds / Datos preexistentes<br>- Buscador para nuestro blog<br>- Paginación |
-| Semana 24 | Testing y Deploy                       | - Seguimiento de errores (debugging)<br>- TDD y tests unitarios con RSpec<br>- Deploy: Introducción a Kamal |
-
----
