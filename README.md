@@ -42,7 +42,7 @@ A continuación, se detalla el temario organizado por meses. Cada mes incluye la
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
-| Semana 9 | Herencia y polimorfirmos          | - Concepto de bases de datos relacionales, qué son y por qué son útiles. |
+| Semana 9 | Herencia y polimorfirmos          | - Introducción al concepto de herencia en la programación. |
 | Semana 10 | Primeros pasos con SQLite  | - Instalación de SQLite, creación de una base de datos sencilla. |
 | Semana 11 | CRUD básico con SQLite | - Cómo insertar, actualizar, eliminar y consultar datos en SQLite desde C#. |
 | Semana 12 | Tarea #2 | - Desarrollar una pequeña aplicación en C# que interactúe con una base de datos SQLite. |
