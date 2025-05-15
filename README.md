@@ -1,21 +1,20 @@
-# Plataforma de Cursos - Desarrollo Web con Ruby on Rails 💎
+# Plataforma de Cursos - Introducción a la programación con C#
 
-Aprende a desarrollar aplicaciones web modernas en 6 meses.
+Aprende a desarrollar aplicaciones de escritorio con C# en 4 meses
 
 ## Detalles del Curso
 
 - 🌱 **Nivel:** Básico
-- ⏱️ **Duración:** 6 meses
+- ⏱️ **Duración:** 4 meses
 - 💻 **Modalidad:** Remota (Discord)
-- 📅 **Horario:** Jueves 22:30 (una vez a la semana)
-- 🗓️ **Inicio:** 6 de Marzo 2025
+- 📅 **Horario:** Viernes 22:30 (una vez a la semana)
+- 🗓️ **Inicio:** 6 de Junio 2025
 
 ## Características
 
 - 📹 Clases grabadas en Discord
-- 📚 **Temario:** [Ver temario completo](https://bit.ly/rails-2025-curso "target='_blank'")
-- 💰 **Precio:** $20.000/mes
-- 🖥️ **Requiere equipo propio:** (Sistema Operativo: Windows (Compatible con WSL), Mac o Linux)
+- 💰 **Precio:** $15.000/mes
+- 🖥️ **Requiere equipo propio:** (Debe utilizar sistema operativo Windows)
 
 ## Temario del Curso
 
