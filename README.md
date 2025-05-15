@@ -20,7 +20,7 @@ Aprende a desarrollar aplicaciones de escritorio con C# en 4 meses
 
 A continuación, se detalla el temario organizado por meses. Cada mes incluye las semanas correspondientes con su título de sesión y contenidos.
 
-### Mes 1: Fundamentos
+### Mes 1:
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
@@ -29,7 +29,7 @@ A continuación, se detalla el temario organizado por meses. Cada mes incluye la
 | Semana 3 | Condicionales                   | - Utilización del concepto If para usar en programas. Repaso de variables, manejo de errores (debugging). |
 | Semana 4 | Bucles | - Utilización de while y for. Ejemplos con condicionales. |
 
-### Mes 2: Bases de Datos e Intro a Rails
+### Mes 2:
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
@@ -38,7 +38,7 @@ A continuación, se detalla el temario organizado por meses. Cada mes incluye la
 | Semana 7 | Introducción a programación orientada a objetos. | - Introducción al concepto de POO, introducción a clases y métodos. |
 | Semana 8 | Creación de clases y métodos                       | - Presentación de clases y métodos en C#, cómo implementarlos y utilizarlos. |
 
-### Mes 3: Desarrollo Básico en Rails
+### Mes 3:
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
@@ -47,7 +47,7 @@ A continuación, se detalla el temario organizado por meses. Cada mes incluye la
 | Semana 11 | CRUD básico con SQLite | - Cómo insertar, actualizar, eliminar y consultar datos en SQLite desde C#. |
 | Semana 12 | Tarea #2 | - Desarrollar una pequeña aplicación en C# que interactúe con una base de datos SQLite. |
 
-### Mes 4: Autenticación y Relaciones
+### Mes 4:
 
 | Semana  | Título de la Sesión                    | Contenidos                                      |
 |---------|----------------------------------------|------------------------------------------------|
